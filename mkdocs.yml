@@ -1,0 +1,27 @@
+site_name: Project MD Test Site
+repo_url: https://github.com/Mokrecho1/MkDocs_Test
+
+copyright: Proprietary information, for the express use of TIGA, A Tetra Tech Company
+
+theme:
+   name: material
+   features:
+      - search.suggest
+      - search.highlight
+      - content.tabs.link
+      - content.code.annotation
+      - content.code.copy
+   language: en
+   palette:
+      scheme: slate
+      primary: indigo
+
+Extra:
+   social:
+      - icon: fontawesome/brands/linkedin
+        link: https://www.linkedin.com/company/the-integration-group-of-americas-inc
+   
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
