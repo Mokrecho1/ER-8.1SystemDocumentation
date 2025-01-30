@@ -1,5 +1,5 @@
-site_name: Project MD Test Site
-repo_url: https://github.com/Mokrecho1/MkDocs_Test
+site_name: EXCO Resources Ignition 8.1 System Guide
+repo_url: https://github.com/Mokrecho1/ER-8.1SystemDocumentation
 
 copyright: Proprietary information, for the express use of TIGA, A Tetra Tech Company
 
@@ -13,7 +13,7 @@ theme:
       - content.code.copy
    language: en
    palette:
-      scheme: slate
+      scheme: 
       primary: indigo
 
 Extra:
