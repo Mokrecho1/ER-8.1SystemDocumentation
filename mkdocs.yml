@@ -14,7 +14,7 @@ theme:
    language: en
    palette:
       scheme: 
-      primary: indigo
+      primary: green
 
 Extra:
    social:
