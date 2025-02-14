@@ -31,3 +31,4 @@ When entering edit mode, a grid overlays the dashboard, indicating potential loc
 | Deleting Widgets | To remove a widget, click on the (x) located in the top right corner of the widget card. This action deletes the widget from the dashboard.
 | Stacking Widgets | Widgets can be placed above one another, allowing for efficient use of dashboard space.
 
+test
