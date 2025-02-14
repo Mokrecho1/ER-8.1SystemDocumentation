@@ -4,13 +4,13 @@ User customization ranges between default filters and default columns. Users can
 
 ![Image title](https://github.com/Mokrecho1/ER-8.1SystemDocumentation/blob/main/docs/Images/usersettings1.png?raw=true)
 
-## Site Overview Column Selection
+## **Site Overview Column Selection**
 
 The ‘Site Overview Column Selection’ opens to provide the user choices regarding columns in the ‘Site Overview’ screen. Users can select the respective ‘Asset’ and data type to apply custom columns. Columns are selected by checking their respective boxes. After a user has selected all custom columns, they MUST click on ‘Update Column Preferences’ to finalize their changes.
 
 ![Image title](https://github.com/Mokrecho1/ER-8.1SystemDocumentation/blob/main/docs/Images/usersettings2.png?raw=true)
 
-## Equipment Overview Column Selection
+## **Equipment Overview Column Selection**
 
 The ‘Equipment Overview Column Selection’ opens to provide the user choices regarding columns in the ‘Equipment Overview’ screen. Users can select the respective equipment type to apply custom columns. Columns are selected by checking their respective boxes. After a user has selected all custom columns, they MUST click on ‘Update Columns’ to finalize their changes.
 
