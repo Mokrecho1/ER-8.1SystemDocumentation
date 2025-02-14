@@ -15,6 +15,9 @@ theme:
    palette:
       scheme: 
       primary: green
+nav:
+  - index.md
+  - Documentation Information.md
 
 Extra:
    social:
