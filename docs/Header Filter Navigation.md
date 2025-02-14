@@ -1,4 +1,4 @@
-# Header Filter Navigation
+# **Header Filter Navigation**
 The EXCO system maintains a dynamic filtering header that influences screen information. Users can identify a specific asset, area, and site to find information. Selected filters automatically apply to the screen.
 
 ![Image title](https://github.com/Mokrecho1/ER-8.1SystemDocumentation/blob/main/docs/Images/headerfilter1.png?raw=true)
