@@ -18,6 +18,7 @@ theme:
 nav:
   - index.md
   - Documentation Information.md
+  - Header Filter Navigation.md
 
 Extra:
    social:
