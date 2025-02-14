@@ -30,3 +30,4 @@ When entering edit mode, a grid overlays the dashboard, indicating potential loc
 | Resizing Widgets | Multiple grab points are provided, allowing for dragging the widget and adjusting its size according to requirements.
 | Deleting Widgets | To remove a widget, click on the (x) located in the top right corner of the widget card. This action deletes the widget from the dashboard.
 | Stacking Widgets | Widgets can be placed above one another, allowing for efficient use of dashboard space.
+
