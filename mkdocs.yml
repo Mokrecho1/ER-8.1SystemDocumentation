@@ -17,7 +17,6 @@ theme:
       primary: green
 nav:
   - index.md
-  - Documentation Information.md
   - Header Filter Navigation.md
   - User Settings.md
   - Navigation.md
