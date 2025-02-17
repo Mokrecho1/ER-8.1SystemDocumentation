@@ -15,6 +15,7 @@ theme:
    palette:
       scheme: 
       primary: green
+   Logo: Images/excolog.png
 nav:
   - index.md
   - Header Filter Navigation.md
