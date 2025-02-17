@@ -4,6 +4,7 @@ The ‘Comms Overview Screen’ provides users the ability to monitor communicat
 ![image](https://github.com/user-attachments/assets/93bbc622-da54-4c07-8d6f-b87f6b07cb18)
 
 Notification colors are displayed on communication device entries, providing users insight into communication status and potential issues. The following table provides current color use and indication:
+
 | **Color**        | **Indication**               |
 | ---------------- | ---------------------------- |
 | **Grey / Black** | Null Tag Input               |
