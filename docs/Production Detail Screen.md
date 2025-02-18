@@ -111,6 +111,10 @@ The ‘SPOC’ dock provides users the ability to start or stop the equipment an
 
 ![image](https://github.com/user-attachments/assets/d063df56-f8d7-4809-9cf2-5018c3ea49f6)
 
+‘SPOC Revelation’ card docks allow the user to do a remote reset of a SPOC device. Users can access the dock by clicking on the detail button on a SPOC Revelation card. In the center of the ‘Control’ panel the remote reset button will allow SPOC resets. This is a dual confirmation process requiring consent to be given twice. Confirming both prompts will send a reset command to the respective reset tag. 
+
+![image](https://github.com/user-attachments/assets/4a2d8fe2-3bb6-4ed5-825a-ebf020580caf)
+
 ### **Autochoke Card**
 The ‘AutoChoke’ dock provides users the ability to change autochoke functionality and view configurations. Setpoint values and modes can be changed by clicking on the ‘pen’ icon next to each entry.
 
