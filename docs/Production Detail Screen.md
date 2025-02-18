@@ -87,9 +87,17 @@ The global trend enables users to visualize trends across multiple equipment car
 ![image](https://github.com/user-attachments/assets/a039f8fa-7b43-45de-a9ee-cdfe03cb3874)
 
 #### **Well Site Trend**
-The Well Site Trend enables users to visualize trends across a set of specific well tags. Users can enable or disable certain equipment from the right-side list. All filtering and date range options that exist within the Global Trend are mirrored here.
+The Well Site Trend enables users to visualize trends across a set of specific well tags. Users can enable or disable certain equipment from the right-side list. All filtering and date range options that exist within the Global Trend are mirrored here. Within the Well Site Trend dock, users can customize the display of trending data. Changes made to the User preferences for displayed tags and coloration will redraw trend lines. Users can change trend color by clicking on the associated circle next to each tag selection. This will open a color swatch at the bottom of the user preferences. 
 
-![image](https://github.com/user-attachments/assets/63cc9367-1208-4a60-a6e9-4284e251631d)
+![image](https://github.com/user-attachments/assets/501a403e-22f6-40ef-b895-aa3ac217c3ae)
+
+Making a color selection closes the swatch and updates the respective coloration. All modifications made to color and display are permanent. Changes carry over between well site trend screens. Users can hover the mouse over any trend to display a popup with associated tag information. 
+
+![image](https://github.com/user-attachments/assets/fe2d833d-3155-4508-a6e0-ad9bf998249c)
+
+Users can access the ‘Local Pen Control’ via the bottom left button. Here modifications to pens can be made and analysis tools will display any selection results. Changes made within the ‘Pen Control’ are temporary and will not move between well site trend instances. 
+
+![image](https://github.com/user-attachments/assets/d1c977d9-9869-4012-a5f6-fe9993c6e38f)
 
 #### **Site Event History**
 The ‘Site Event History’ dock enables users view actions made on specific equipment on a site. The docket provides information on the action made, the target equipment, when it was done, and what value was changed. This docket acts as an audit log for other operators.
