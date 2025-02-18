@@ -11,5 +11,6 @@ On the report screen users can change the export file type for the respective re
 
 All downloaded reports adopt the following naming convention:
 
-(Report_Name)_MM-DD-YYYY HH-MM(AM/PM)
-Eagle Ford Heater Report_02-07-2025 11-13AM
+Standard: (Report_Name)_MM-DD-YYYY HH-MM(AM/PM)
+
+Example: Eagle Ford Heater Report_02-07-2025 11-13AM
