@@ -9,3 +9,12 @@ Notification colors are displayed on communication device entries, providing use
 | ---------------- | ---------------------------- |
 | **Grey / Black** | Null Tag Input               |
 | **Magenta**      | Bad Communication Connection |
+
+## **ACM Communication Configurator**
+Select users have access to changing the IP and Port of devices from the ‘Comms Overview’ Screen. Once users select a row in the table, an ‘Edit Address’ button will appear in the top right corner. This button opens a popup displaying all remote devices associate with that selected entry.
+
+![image](https://github.com/user-attachments/assets/8cfc6b41-75cc-49d7-aa10-f10efc5fedc6)
+
+The popup allows the user to change the IP Address and Port for all listed devices. The ‘Submit’ button will only be interactable once an edit is made. Any submissions made will be listed in the audit table at the bottom of the dock. 
+
+![image](https://github.com/user-attachments/assets/7df0eb19-c361-4af2-ba3c-613174dc4237)
