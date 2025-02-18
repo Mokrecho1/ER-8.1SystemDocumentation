@@ -71,6 +71,18 @@ Safety values visualization provides a comprehensive overview of alarm status. T
 
 The indicator provided next to each card identifies the status of the alarm. A grey circle indicates there is no safety enabled for that equipment. A green circle indicates that the equipment has no current active alarms. A red circle indicates an alarm is currently active on that equipment.
 
+The ‘Remote Well Bring Online’ feature allows users to bring wells back online after a shut-in. The ‘Well Bring Online’ feature can be accessed via the site’s safety dock. When a well is NOT shut-in the bring online features will be disabled for interaction. A 15-minute timer begins once a well gets shut in. Once the 15-minute timer is over, the system will check to see if there are any alarms that are currently active. 
+
+![image](https://github.com/user-attachments/assets/e427d410-28c2-43e2-8ae0-c61995d269aa)
+
+If there are no alarms active, the bring online buttons will enable in sequential order: (1) Bypass, (2) Reset, and then (3) Normal.
+
+•	Bypass will demand poll the well.
+•	Reset will reset the device.
+•	Normal will restore the well to typical functionality. 
+
+![image](https://github.com/user-attachments/assets/a5ef0060-5831-47d1-9020-b463dcabc1d3)
+
 #### **Polling Frequency**
 The ‘Polling Frequency’ button automates the population of frequency settings. This dock enables users to customize intervals and expiration dates according to their requirements, enhancing flexibility and efficiency in data polling. Intervals can be set up to one (1) hour. Users can establish expiration dates via the calendar card in the dock. Users can finalize their changes by clicking ‘Submit’. Once an interval is set, an expiration date is provided at the bottom of the dock.
 
