@@ -24,6 +24,10 @@ Users can add site specific notes in the bottom left note card. Notes added to t
 
 ![image](https://github.com/user-attachments/assets/57824fbb-6d24-40ff-ad8b-8d0c5d5f9f11)
 
+Users can click on the ‘ellipsis (…)’ next to a note they have created to open the ‘Edit’ popup. In this popup users can edit their note and change the note’s timestamp. Any changes to the timestamp will be displayed via a yellow highlight within the popup. Users can submit changes by clicking ‘Submit Edit’. Changes to the timestamp will automatically move the note back to the respective time in chronological order. 
+
+![image](https://github.com/user-attachments/assets/2dc7b621-9206-4620-b3d3-1bb5239342e3)
+
 ### **Alarm Visualization**
 Alarm colors are displayed on equipment cards, providing users insight into equipment status and potential issues. The following table provides current color use and alarm indication:
 
