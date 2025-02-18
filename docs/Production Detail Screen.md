@@ -76,6 +76,14 @@ The ‘Polling Frequency’ button automates the population of frequency setting
 
 ![image](https://github.com/user-attachments/assets/5a02dea0-bcd6-4d89-9ace-7e5a6e518c3d)
 
+Tags that poll at 1-minute intervals require a lot of bandwidth. On certain sites, fast polling is available to reduce bandwidth by throttling general polling frequencies and establishing ‘fast poll’ tags. To access fast polling users will need to navigate to the Polling Frequency dock. From there, the site’s default polling interval can be set to a slower rate. If enabled, fast polling can be accessed via the ‘Fast Poll Mode NOT Active’ hyperlink. This link will open the ‘Fast-Polling Frequency’ dock.
+
+![image](https://github.com/user-attachments/assets/cdb6b9f8-f6b7-40c3-bea9-1921034c7166)
+
+The ‘Fast-Polling Frequency’ dock provides users a list of site selections and a list of sites that are currently fast polling. Users can search for the specific site on the left side table and move it to the fast-polling list via the central move arrows. Polling frequencies for the fast-polling list can be changed at the top of the table. Once a site has been moved over, users can click on ‘Submit’ to commit all moved sites. Any submissions made will be listed in the audit table at the bottom of the dock.
+
+![image](https://github.com/user-attachments/assets/df9a2684-a72b-4e2d-8e07-305c1a9e8eb7)
+
 #### **VO Tickets**
 The VO report button provides a sub-view (duplicate) of the VO Ticket screen, offering detailed insights into production tickets per site. The dock acts as a visualizer of the VO Ticket screen. For more information about VO Tickets click here.
 
