@@ -15,7 +15,7 @@ The ‘Alarm Journal’ tab provides a log of alarm actions taken by users. The 
 
 ![image](https://github.com/user-attachments/assets/84d74778-ff3d-44c0-bd35-906cd0101fae)
 
-## Alarm Analysis / VO Ticket Tool
+## **Alarm Analysis / VO Ticket Tool**
 Users can navigate to the ‘Alarm Analysis’ screen  via the ‘Alarm Overview’ tab selection. This screen provides visual data for alarms and VO tickets. If users navigate from an existing screen with global filters selected, those filters will carry over to this view. If global filters are brought over, the screen will automatically apply those filters into the displayed data. 
 
 By default, displayed values are filtered in a 24-hour time frame. Users can change filtering options at the top of the screen. Filter options include dates and alarm priorities. Changes to filters do NOT apply to the screen automatically. Users will need to click ‘Search’ to apply filters to the screen. 
