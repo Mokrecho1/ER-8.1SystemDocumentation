@@ -171,3 +171,9 @@ Users can identify expandable tabs by locating the resizing bar attached to the 
 
 ![image](https://github.com/user-attachments/assets/20dfcd08-a11a-4209-abcc-bc890ff5f530)
 
+## **Global Register Editing**
+The ‘Global Register’ dock allows users to change a tag’s device ID communication, register reading, and polling frequency. Users can access the Global Register dock by right-clicking on any value and selecting ‘Edit Register’. 
+
+![image](https://github.com/user-attachments/assets/8280e980-7996-42f4-8c38-a995d0d6f667)
+
+The editor displays the device tag path, the device ID, register, and polling interval. Display options have an entry box or drop-down menu for editing. Any edit made will be displayed with a yellow highlight. The ‘Refresh’ and ‘Submit’ buttons will only be interactable once an edit is made. Users can click on the ‘Refresh’ button to default the changed fields back to their original entry. Users can press ‘Submit’ to push any changes to the tag. Any submissions made will be listed in the audit table at the bottom of the dock. 
