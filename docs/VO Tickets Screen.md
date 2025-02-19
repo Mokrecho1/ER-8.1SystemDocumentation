@@ -22,6 +22,9 @@ Once tickets are submitted, they are logged into the VO ticket screen where it b
 · Edit an existing ticket.
 
 ![image](https://github.com/user-attachments/assets/2ad190eb-e151-4019-b9ca-1dc3572ad4da)
+/// caption
+VO Tickets Screen
+///
 
 _Note: VO tickets are not anonymous as the operator’s username and date are logged alongside the VO ticket._
 
@@ -30,6 +33,9 @@ Click on the plus icon (+) to add a new ticket. To edit an existing ticket, sele
 When creating a new ticket, fields in the dock will be blank except for the assumed site name if a site is selected in the global filter. Users can change both the Site Name and Meter ID in the respective dropdowns. Both dropdowns will update each other respectively. The Asset and Area fields are NOT editable. If editing an existing ticket, the fields will automatically populate with information on the selected ticket. Each VO Ticket includes four (4) required fields notated with a red asterisk. These fields must be filled prior to ticket creation. Clicking the ‘Submit’ button will submit the current ticket. Clicking the ‘Clear’ button will clear all filled fields.
 
 ![image](https://github.com/user-attachments/assets/1ffe8336-a361-49f4-90fd-be645dfd84fd)
+/// caption
+VO Ticket Entry Dock
+///
 
 _Note: When creating a new ticket, ‘Status’ will be forced to Open._
 
