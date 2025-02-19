@@ -2,6 +2,9 @@
 The EXCO system maintains a dynamic filtering header that influences screen information. Users can identify a specific asset, area, and site to find information. Selected filters automatically apply to the screen.
 
 ![Image title](https://github.com/Mokrecho1/ER-8.1SystemDocumentation/blob/main/docs/Images/headerfilter1.png?raw=true)
+/// caption
+Header Global Filter
+///
 
 Users can leverage the filters to drill down to more specific data or use specific data to find its associated overarching information. For example, if a user selects the site ‘ALLEE 1H’, the area and asset filter options will automatically populate with the associated information.
 
