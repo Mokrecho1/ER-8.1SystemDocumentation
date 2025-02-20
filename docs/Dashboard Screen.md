@@ -89,17 +89,49 @@ If the widget is enlarged it will display the trends for the selected line press
 Enlarged Widget Display
 ///
 
-### **My Tags & Trends Widget**
-The ‘My Tags & Trends’ widget has two functionalities: (1) to bank and view tags values, and (2) to view banked tags as trends. Users can change the widget functionality by right clicking on the widget and selecting ‘Switch to Functionality’.
+### **My Tag Banks & Trends Widget**
+The ‘My Tag Banks & Trends’ widget has three (3) functionalities: (1) to bank and view tag values, (2) to view banked tags as trends, and (3) to create/configure tag banks.
 
-![Image title](https://github.com/Mokrecho1/ER-8.1SystemDocumentation/blob/main/docs/Images/dashboardscreen9.png?raw=true)
+![image](https://github.com/user-attachments/assets/7d98999f-ed82-4ba9-b9eb-fb79ec1b7e26)
 /// caption
-My Tags & Trends Functionality
+My Tag Bank & Trends Functionality
 ///
 
-Users can bank tags by right clicking on any tag value in the EXCO system and selecting ‘Send Tag to Dashboard’. If a user does NOT have the ‘My Trend’ widget on their dashboard, sending tags will be saved to the user profile and will populate the widget when selected. Tags can be removed from the tag bank by right clicking on the widget and selecting ‘Remove Tags’.
+_Note: Right-Click access to menu choices area available across each view within the widget._
 
-*Note: Users can have multiple of the same widget active in their dashboard. For example, if a user wants to view both the banked tags and the trend, two ‘My Trend’ widgets can be active at once.*
+Users will be able change the widget functionality by right clicking on the widget and selecting from the following options:
+
+**Switch to Live Values**: This option will flip the widget to the bank view. This view displays the tag name, and live value. Users can identify the current tag bank selected via the header name. 
+
+![image](https://github.com/user-attachments/assets/f1e18b3b-bee7-4510-88bb-609390a21a37)
+/// caption
+Switch to Live Values
+///
+
+**Configure Banks**: This option will open the view to add, modify, or delete banks. Current implementations aim to have a maximum of five (5) tag banks available at one time. Users will always have at least one (1) tag bank available. Users can create tab bank instances via the plus (+) icon. Users can modify the names of existing tag banks and save their modifications via the save icon. Users can delete existing tag banks with the trash icon. 
+
+![image](https://github.com/user-attachments/assets/aadf3027-f3d2-4c46-9188-16a2f43cb4b9)
+/// caption
+Bank Configuration
+///
+
+**Change Bank**: This option will allow users to select from a list of created/configured banks. This list will automatically populate with additions to the bank list. Current implementations require the user to select a bank via the ‘Change Bank’ menu before any data is loaded on a new widget instance.
+
+![image](https://github.com/user-attachments/assets/a0803fcf-a4c6-4cd1-b414-012b62447bf7)
+/// caption
+Bank Change
+///
+
+**Remove Tags**: This option allows users to remove tags from the selected tag bank. Tags added to the bank will automatically populate this list. 
+
+**Send to Tag Bank**: Having multiple tag banks allow users to send a selected tag from anywhere in the system to a specific bank. Tag bank selections when sending tags to a bank are automatically populated when tag banks are created or deleted. Users can right-click on the respective tag and select ‘Send Tag To Bank’ to populate tags. This feature replaced the legacy single-option tag sending functionality. 
+
+![image](https://github.com/user-attachments/assets/f316e735-29ce-4475-beae-2638383622c1)
+/// caption
+Tag Bank Send Options
+///
+
+*Note: Users can have multiple of the same widget active in their dashboard. For example, if a user wants to view two seperate banks, two widgets can be active at once.*
 
 ### **Potential Vs. Actual Widget**
 The ‘Potentials Vs. Actual’ widget provides users a view of Target and MCFPD rates for filter selections. Users can right-click to filter the display from Company down to a specific Facility. Data can be refreshed by clicking on the ‘Cycle’ icon in the top right corner.
